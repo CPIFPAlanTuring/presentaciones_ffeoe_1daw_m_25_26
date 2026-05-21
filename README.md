@@ -24,7 +24,7 @@ Si en una empresa hay **varios participantes**, **comparten un solo repositorio*
 
 ### 1DAW
 
-La **fecha límite** para publicar en la tabla el enlace al repositorio la indicará tu **tutor de la formación dual** (o el departamento) en clase o por los canales habituales del curso.
+La **fecha límite para publicar en la tabla el enlace al repositorio será el jueves 4 de junio a las 23:59**.
 
 Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la palabra *pendiente* por la **URL del repositorio** (idealmente la raíz del repo, para que se vea el `README.md` al abrir el enlace). Si varios participantes comparten empresa, **cualquiera de ellos** puede actualizar esa celda o coordinarse para que figure un único enlace válido.
 
