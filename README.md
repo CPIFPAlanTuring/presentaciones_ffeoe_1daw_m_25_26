@@ -33,7 +33,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | Quijada Alcaide, José Antonio | *pendiente* |
 | <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Doblas Mejías, José Carlos | *pendiente* |
 | <img src="img/navicom.jpg" height="18" alt="Navicom" /> | Navicom | Aragonés Martín, Carlos | *pendiente* |
-| <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | Agüera Cuadra, Alba<br>García Gálvez, Juan Antonio | *pendiente* |
+| <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | Agüera Cuadra, Alba<br>García Gálvez, Juan Antonio | https://github.com/albita-8/Presentaciones-duales-de-1-DAW-ma-ana-del-curso-2025-2026 |
 | <img src="img/ideanto.png" height="22" alt="Ideanto" /> | IDEANTO | Caballero Castillo, Juan | *pendiente* |
 | <img src="img/bettergy.png" height="22" alt="Bettergy" /> | Bettergy | Codes Sánchez, Alfredo<br>Montanéz Vega, Elena | *pendiente* |
 | <img src="img/viewnext.png" height="22" alt="Viewnext" /> | Viewnext | Cortes Bueno, José Yeray<br>Sánchez Martín, Isaac<br>Soria Zaitseva, Elisabet<br>Toledo Moreno, Rafael | *pendiente* |
