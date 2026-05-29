@@ -42,7 +42,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Palmero Arrabal, Jesús | *pendiente* |
 | <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Ruiz Herrera, Javier | *pendiente* |
 | <img src="img/ajemare.jpg" height="22" alt="AJEMARE" /> | AJEMARE | Santiago Escobar, Jorge Javier | *pendiente* |
-| <img src="img/windup.svg" height="22" alt="Windup" /> | Windup | Yáñez Solano, Ángel | *pendiente* |
+| <img src="img/windup.svg" height="22" alt="Windup" /> | Windup | Yáñez Solano, Ángel | https://github.com/Angel30042002/Presentacion_Dual_1DAW_Ma-ana_25-26 |
 
 *Alumnos sin entrega de repositorio / exposición este curso:* 
 - Barrera López, Jesús
