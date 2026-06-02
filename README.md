@@ -35,7 +35,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | Agüera Cuadra, Alba<br>García Gálvez, Juan Antonio | https://github.com/albita-8/Presentaciones-duales-de-1-DAW-ma-ana-del-curso-2025-2026 |
 | <img src="img/ideanto.png" height="22" alt="Ideanto" /> | IDEANTO | Caballero Castillo, Juan | *pendiente* |
 | <img src="img/bettergy.png" height="22" alt="Bettergy" /> | Bettergy | Codes Sánchez, Alfredo<br>Montanéz Vega, Elena | *pendiente* |
-| <img src="img/viewnext.png" height="22" alt="Viewnext" /> | Viewnext | Cortes Bueno, José Yeray<br>Sánchez Martín, Isaac<br>Soria Zaitseva, Elisabet<br>Toledo Moreno, Rafael | *pendiente* |
+| <img src="img/viewnext.png" height="22" alt="Viewnext" /> | Viewnext | Cortes Bueno, José Yeray<br>Sánchez Martín, Isaac<br>Soria Zaitseva, Elisabet<br>Toledo Moreno, Rafael |https://github.com/yerayco/presentaciones_ffeoe_1daw_m_25_26.git |
 | <img src="img/autismo-sur.png" height="22" alt="Fundación Autismo Sur" /> | Fundación Autismo Sur | Frutos Ruiz, Álvaro | https://github.com/Afrurui/presentaciones_ffeoe_1daw_m_25_26 |
 | <img src="img/properly.png" height="22" alt="Properly" /> | Properly | García Domínguez, Andrés | *pendiente* |
 | <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Palmero Arrabal, Jesús | https://github.com/jpalarr0104/-practicas-daw-ada-2526- |
