@@ -40,7 +40,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/properly.png" height="22" alt="Properly" /> | Properly | García Domínguez, Andrés | *pendiente* |
 | <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Palmero Arrabal, Jesús | https://github.com/jpalarr0104/-practicas-daw-ada-2526- |
 | <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Ruiz Herrera, Javier | https://github.com/jruiher341/presentaciones_ffeoe_1daw_m_25_26 |
-| <img src="img/ajemare.jpg" height="22" alt="AJEMARE" /> | AJEMARE | Santiago Escobar, Jorge Javier | *pendiente* |
+| <img src="img/ajemare.jpg" height="22" alt="AJEMARE" /> | AJEMARE | Santiago Escobar, Jorge Javier | https://github.com/Jorgejaviersantiago/Presentacion__ffoe_Mare.git |
 | <img src="img/windup.svg" height="22" alt="Windup" /> | Windup | Yáñez Solano, Ángel | https://github.com/Angel30042002/Presentacion_Dual_1DAW_Ma-ana_25-26 |
 
 *Alumnos sin entrega de repositorio / exposición este curso:* 
